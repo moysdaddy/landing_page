@@ -1,0 +1,55 @@
+#nav {
+    display: inline;
+	padding: 5px;
+}
+
+div {
+    border-bottom: 1px solid #efefef;
+    margin: 10px;
+    padding-bottom: 10px;
+    width: 260px;
+    font-family: 'trebuchet ms', 'san sans-serif';
+    font-size: 12px;
+}
+
+img {
+    align: left;
+    width: 120px; 
+    height: 120px;
+}
+
+fieldset {
+    width: 400px;
+}
+
+.profile {
+    float: left;
+}
+
+legend {
+    font-family: 'trebuchet ms', 'san sans-serif';
+    font-size: 12px;
+}
+
+#right {
+    position: absolute;
+    top: 50px;
+    right: 0;
+    left: 38%;
+}
+
+.submit {
+    text-align: right;
+    width: 413px;
+}
+
+table {
+    font-family: 'trebuchet ms', 'san sans-serif';
+    font-size: 12px;
+    margin: auto 10px 5px  10px 5px;
+    padding: 10px 5px  10px 5px;
+}
+
+tr {
+    text-align: center;
+}
